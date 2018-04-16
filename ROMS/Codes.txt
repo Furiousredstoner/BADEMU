@@ -1,0 +1,7 @@
+0x00 -- nothing 
+0x01 -- Write Reg A
+0x02 -- Write Reg B
+0x03 -- Read Reg A
+0x04 -- Read Reg B
+0xD(x) -- Load Data x
+
